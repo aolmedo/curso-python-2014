@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 
+
 #def ejercicio_1():
 a = raw_input("Ingrese un numero: ")
 b = raw_input("Ingrese otro numero: ")

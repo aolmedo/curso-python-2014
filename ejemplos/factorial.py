@@ -1,3 +1,5 @@
+#!/usr/bin/python
+# -*- coding: utf-8 
 
 def factorial(numero):
     if numero == 0:

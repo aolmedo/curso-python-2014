@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: utf-8 
+
 maximo = lambda x, y: x > y and x or y
 
 def maximoLista(lista):

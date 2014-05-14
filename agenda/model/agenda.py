@@ -22,3 +22,9 @@ class Agenda(object):
     def exportar(self, target):
         pass
 
+    def contactos(self):
+        pass
+
+    def cumpleanios_del_dia(self):
+        pass
+
